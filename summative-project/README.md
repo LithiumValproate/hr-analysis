@@ -1,6 +1,6 @@
 ---
 No:
-    38
+  38
 ---
 
 # 人力资源分析
@@ -35,7 +35,7 @@ No:
 | No | 属性                    | 数据类型    | 字段描述               |
 |----|-----------------------|---------|--------------------|
 | 1  | satisfaction_level    | Float   | 员工满意程度：0-不满意，1-满意  |
-| 2  | last_evaluation       | Float   | 国家                 |
+| 2  | last_evaluation       | Float   | 员工上次绩效考核得分         |
 | 3  | number_project        | Integer | 在职期间完成的项目数量        |
 | 4  | average_montly_hours  | Integer | 每月平均工作时长（hr）       |
 | 5  | time_spend_company    | Integer | 工龄（年）              |

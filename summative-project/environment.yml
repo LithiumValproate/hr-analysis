@@ -1,8 +1,0 @@
-name: hrproj
-channels:
-  - defaults
-dependencies:
-  - python=3.12
-  - pandas
-  - pandas-stubs
-prefix: /opt/homebrew/Caskroom/miniconda/base/envs/hrproj
